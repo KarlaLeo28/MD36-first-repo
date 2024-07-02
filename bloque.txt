@@ -1,0 +1,4 @@
+aprender a usar Powershell
+apredimos a usar comandos
+aprendimos el funcionamiento de comandos
+el funcionamiento de Git y GitHub
